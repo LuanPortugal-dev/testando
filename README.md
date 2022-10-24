@@ -10,4 +10,4 @@
 2. [Noticias_com_rss](teste3/README.md)
 
 
-### Scrips estão no servidor: 15.228.188.217.
+### Scrips estão no servidor: 15.228.188.217
