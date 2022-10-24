@@ -21,3 +21,7 @@
 4. RSS Infomoney Stock = (`-1001740154255`)
 5. RSS Investing = (`-1001740154255`)
 6. RSS Pox Globo = (`-1001740154255`)
+
+#### [Os id de telegram confira aqui](https://docs.google.com/spreadsheets/d/1MK0wWrCiNMgjWSwwkd1PO_aEGO_dpRKyidfoHG7IANc/edit#gid=200685902)
+
+#### Se não conseguir visualizar, peça permissão para o Leonardo Henriques.
