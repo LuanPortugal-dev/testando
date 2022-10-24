@@ -1,4 +1,4 @@
-<h1 align="center">Scripts de raspagens de notiicas</h1>
+<h1 align="center">Scripts de raspagens de notícas</h1>
 
 ## Configuração no task Scheduller
 
