@@ -1,7 +1,7 @@
 # BRA Crawler
 
 <h1 align="center">
-  <img src="./logo-image/bra1.png" alt="Swift Logo" width="120">
+  <img src="./bra1.png" alt="Swift Logo" width="120">
 </h1>
 
 # Scripts de raspagens:
